@@ -1,0 +1,5 @@
+#!/bin/bash
+
+service memcached stop
+service apache2 stop
+stop carbon-cache
